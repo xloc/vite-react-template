@@ -7,7 +7,7 @@
 
 ## Create a project using this template
 ```
-npx degit xloc/vite-react-template#main my-project
+npx degit xloc/vite-react-template#main {project_name}
 ```
 
 
