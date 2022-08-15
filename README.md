@@ -16,3 +16,5 @@ npx degit xloc/vite-react-template#main {project_name}
 yarn dev --host
 ````
 
+## To change
+* `yarn add @types/lodash`
